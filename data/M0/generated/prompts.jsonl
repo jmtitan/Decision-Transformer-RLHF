@@ -1,0 +1,2 @@
+{"prompt_id":"d85b1279-2679-47bf-9313-530a797c7142","prompt":"Can I create a raspberry cluster that will act in unison using it's CPUs collectively? I know that then the raspberrys would have to have the program loaded in RAM. If it is not possible then would it be more sensible to create (or modify) some low level virtual machine or abandon the project and buy a server and improve it over time?","source":"generated"}
+
